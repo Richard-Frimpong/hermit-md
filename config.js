@@ -31,7 +31,7 @@ module.exports = {
     ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
     BOT_INFO: process.env.BOT_INFO || 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/6oRG106.jpeg',
     AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/fj2WE83.jpeg' : process.env.AUDIO_DATA,
-    STICKER_DATA: process.env.STICKER_DATA === undefined ? 'Knight bot;ᴀᴅɪᴛʜyᴀɴ' : process.env.STICKER_DATA,
+    STICKER_DATA: process.env.STICKER_DATA === undefined ? 'Hermit;ᴀᴅɪᴛʜyᴀɴ' : process.env.STICKER_DATA,
     ERROR_MESSAGE: toBool(process.env.ERROR_MESSAGE), 
     SONG_THUMBNAIL: toBool(process.env.SONG_THUMBNAIL),
     WARN: process.env.WARN || '4',
